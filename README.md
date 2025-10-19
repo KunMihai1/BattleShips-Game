@@ -8,8 +8,8 @@ The project demonstrates turn-based logic, data validation, and object-oriented 
 
 ## Features
 
-- **Grid-based gameplay** — 10x10 grid with coordinate input and visual board updates  
-- **Ship placement** — customizable fleet, collision detection, and boundary validation  
-- **Turn-based combat** — alternating player turns with hit, miss, and sunk ship feedback  
-- **Encapsulated logic** — classes for game engine, player, and board abstraction  
-- **Replay support** — automatic board reset and replay prompt after each match  
+- **Single-player gameplay** — play against a computer-controlled opponent  
+- **Grid-based board system** — 10x10 grid with coordinate-based targeting  
+- **AI logic** — randomized ship placement and a simple attack strategy for choosing targets  
+- **Turn-based combat** — alternating turns with instant hit/miss feedback  
+- **Replay option** — restart the game without relaunching the program  
